@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\equipo\Documents\Lenguajes de Programacion\JAVA\PRACTICA\Programas\PROGRAMAS EN JAVA\Proyectos Terminados\Obtener Indice Academico\dist\obtener_indice_academico.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\equipo\Documents\Lenguajes de Programacion\JAVA\PRACTICA\Programas\PROGRAMAS EN JAVA\Proyectos Terminados\Obtener Indice Academico\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\equipo\Documents\Lenguajes de Programacion\JAVA\PRACTICA\Programas\PROGRAMAS EN JAVA\Proyectos Terminados\Obtener Indice Academico\dist\obtener_indice_academico.exe"
+Args length:	180/32768 chars
+Exit code:	0
